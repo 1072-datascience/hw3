@@ -2,7 +2,7 @@
 
 ### Name: [your name in Chinese or English]
 ### Student ID: [your student ID]
-### My link = <https://yourname.shinyapps.io/hw3/>
+### ShinyApps link: [<https://yourname.shinyapps.io/hw3/>]
 
 ## Description
 
@@ -12,7 +12,7 @@
   * Plus points: Extra visulizations or tabble to show more information, each for 2 points
     * input data
     * PCA result (i.e., amount of variances ... )
-    * correspondene analysi (CA)
+    * correspondene analysis (CA)
     * ...
 
 ![pcaExample](/images/img2.png)
