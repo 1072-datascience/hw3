@@ -9,15 +9,15 @@
 * Make the interactive web service of PCA analysis by Shinyapp
 * Scoring
   * 85: Make a shiny interactive web site to show PCA analysis (as the following picture) for the iris data such that users can specify which component to show (i.e., PC1, PC2, PC3 ...)
-  * Plus points: Extra visulizations or tabble to show more information, each for 2 points
+  * Plus points: Extra visualizations or tables to show more information, each for 2 points
     * input data
     * PCA result (i.e., amount of variances ... )
-    * correspondene analysis (CA)
+    * correspondence analysis (CA)
     * ...
 
 ![pcaExample](/images/img2.png)
 
-* You might start by integrating the following example (pcr.R) into shiny app. Of course, free to find other appropriate package for PCA.
+* You might start by integrating the following example (pcr.R) into shiny app. Of course, feel free to find other appropriate packages for PCA.
 
 ### pca.R
 
